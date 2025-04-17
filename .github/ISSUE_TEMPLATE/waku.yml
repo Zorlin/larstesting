@@ -75,8 +75,8 @@ body:
     id: duration
     attributes:
       label: Duration
-      description: How long do you want to run each deployment for? (in minutes)
-      placeholder: "20"
+      description: How long do you want to run each deployment for? (in minutes, specify m)
+      placeholder: "20m"
     validations:
       required: true
 
